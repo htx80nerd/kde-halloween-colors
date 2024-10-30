@@ -1,4 +1,4 @@
- Put this file in the following path then go to Settings > Colors
+ Put the above file HalloweenVibes.colors in the following path then go to Settings > Colors and change to the Halloween Vibes 
 
 /home/[username]/.local/share/color-schemes/
 
